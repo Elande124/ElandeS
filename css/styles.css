@@ -1,0 +1,182 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Fredericka the Great', cursive;
+  font-weight: 500;
+}
+
+/*--TOP CONTAINER-*/
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  color:black;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  color:black;
+}
+
+H1 {
+  color:  black;
+  font-weight: lighter;
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Arizonia', cursive;
+}
+
+h2 {
+  font-weight: normal;
+  margin: 1em;
+  line-height: 1;
+  color: peachpuff;
+  font-size: 1.5rem;
+  font-family: 'Fredericka the Great', cursive;
+}
+
+h3 {
+  color: peachpuff;
+  font-family: 'Walter Turncoat', cursive;
+  font-weight: normal;
+}
+
+/*--TOP CONTAINER-*/
+.top-section {
+  background-color: #ffd3e1;
+  position: relative;
+  padding-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+  color:  black;
+  font-weight: lighter;
+}
+
+.im-elande{
+  color:  black;
+  font-weight: lighter;
+
+}
+
+.ElandeS-image-change {
+  border-radius: 50%;
+}
+
+.hello-paragraph-color {
+  color: #40514E;
+  width: 30%;
+  text-align: center;
+  margin: 100px auto 100px auto;
+}
+
+/*--MIDDLE CONTAINER-*/
+.middle-section {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  background: rgb(255, 191, 163);
+  background: linear-gradient(180deg, rgba(255, 191, 163, 1) 0%, rgba(255, 128, 128, 1) 35%, rgba(255, 132, 149, 1) 72%);
+}
+
+.horizontal-rule-dotts {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #C0C0C0;
+  border-width: 5px;
+  width: 5%;
+}
+
+.skill-row {
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.computer-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.My-Skills-computer-paragraph-color {
+  color: peachpuff;
+  font-style: oblique;
+  font-weight: 300;
+}
+
+.chillie-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.My-Skills-chillie-paragraph-color {
+  color: peachpuff;
+}
+
+.hr-rule-dotts {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #C0C0C0;
+  border-width: 5px;
+  width: 5%;
+  clear: right;
+}
+
+/*--BOTTOM CONTAINER-*/
+.bottom-section {
+  background-color:lightgoldenrodyellow;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.Contact-Me {
+  width: 30%;
+  text-align: center;
+  margin: 50px auto 50px auto;
+}
+
+.myButton {
+  box-shadow: 0 1px 6px 8px #fadcdc;
+  background: linear-gradient(to bottom, #fabebe 5%, #e87f7f 100%);
+  background-color: #fabebe;
+  border-radius: 16px;
+  border: 2px solid #f28585;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Georgia;
+  font-size: 16px;
+  padding: 8px 24px;
+  text-decoration: none;
+  text-shadow: 0 1px 6px #cc5454;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #e87f7f 5%, #fabebe 100%);
+  background-color: #e87f7f;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1rem;
+}
+
+a {
+  color: #17706e;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: silver;
+}
+
+.bloody-margin {
+  margin: 0;
+  padding: 2rem;
+}
